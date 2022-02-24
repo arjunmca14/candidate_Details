@@ -6,7 +6,9 @@ presently i have been associated with capgemini as a contractor in Bangalore loc
 
 and i am handling the project name is Tora Eats. It's compleatly food realted project . 
 
-In this application we are using java,spring,springboot,ORM tools like hibernate,jpa and also basic expirence on microservices like Eureka server,eureka client and netflix ,zuul  and database side oracle and mysql.
+In this application we are using java,spring,springboot,ORM tools like hibernate,jpa 
+and also basic expirence on microservices like Eureka server,eureka client and netflix ,zuul  
+and database side oracle and mysql.
 
 in this project we are following agile process with scrum methodology.
 and bug tracking tool is jira 
@@ -37,7 +39,8 @@ hibenrate => 4.3.11
 
 Project Details
 -----------------
-Tora Eats is India’s leading and fastest growing tech based food delivery solution which enables you to order foods and beverages online that you need every day, directly via your mobile and web browser.
+Tora Eats is India’s leading and fastest growing tech based food delivery solution which enables you to order foods 
+and beverages online that you need every day, directly via your mobile and web browser.
 
 main office there at hyderabad kondapur. 
 
