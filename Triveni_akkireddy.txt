@@ -57,3 +57,42 @@ we have 12 microservices are available. mostly I am supported
 4.order management
 5.delevery management
 6.offer details	
+7.offer details
+8.restarent mangment
+9.food management
+10.event based apis
+11.api gateway for authentication and autherization
+12.utility apis
+================================================================================================================================
+
+Role :java backend developer /software developer 
+Responsibilities ::
+-------------------
+
+we are following agile process ..and 
+Bug traking tool ==>jira 
+code repository ==> github...(versioning control tool) we are using
+
+
+daily attending the scrum calls/standup calls ==> here will discuss about what i have done yesterday 
+and what I need to do today ..any issues while development will discuss with the team memebrs ...
+
+
+every 2 weeks we have sprint planning .. here will discuss with product backlog(work)
+here estimation for work ==> my sr developer/team lead will take care. that person will assign the work to us..
+i will get work through jira , that work like enhanccement or bugs related work I will get ...
+
+
+
+once i will get the work ==> i will first do the analysis . after that I will start development .. once compleated the developmenet I will test manually .. after that i will commit the code into github repository.
+
+(code management ==> my sr developer/lead will take care...)
+
+
+
+(and my team members are 7 to 8 members 
+3 developers==>2 sr developer,1 jr developer
+2 testers 
+1 business analyst  ==>(product owner)==>he is directly interact with client..
+1 team lead ==>scrum master ..
+)
