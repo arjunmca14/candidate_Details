@@ -1,0 +1,56 @@
+my name is Triveni_akkireddy
+i have 2+ years of exp in Java backend developer 
+
+
+presently i have been associated with capgemini as a contractor in Bangalore location...
+
+and i am handling the project name is Tora Eats. It's compleatly food realted project . 
+
+In this application we are using java,spring,springboot,ORM tools like hibernate,jpa and also basic expirence on microservices like Eureka server,eureka client and netflix ,zuul  and database side oracle and mysql.
+
+in this project we are following agile process with scrum methodology.
+and bug tracking tool is jira 
+and code repository tool is git hub repository.
+
+
+Education :::
+10th => 2013 => 90% => Geethanjali high-school===> hyderabad 
+12->2015 =>75 => NRI jr college=> Hyderabad
+B.sc Computers=>80==> 2018 =>Pranathi Degree college ==>hyderabad
+
+
+payroll compnay::: Esol Technologies pvt ltd(chennai)
+CTC :::4.2
+Expected :: 7 LPA
+Last working day ==>18th of Feb 2022
+DOB:::05/01/1997 //5th January 1997
+pan card number: CAIPT0848R
+
+
+spring boot =>2.2.1
+spring mvc =>4.2.2
+core java ==>8
+servlet =>2.1 
+JSP ==>2.3.
+hibenrate => 4.3.11
+
+
+Project Details
+-----------------
+Tora Eats is India’s leading and fastest growing tech based food delivery solution which enables you to order foods and beverages online that you need every day, directly via your mobile and web browser.
+
+main office there at hyderabad kondapur. 
+
+here we have different types of subscriptions are available , based on the subscriptions we are providing some offers.
+Here my role is like java backend developer 
+some times we are given offers based on the subscriptions, here we need to change the code based on the requairements. 
+
+this application fully microservices level implemented 
+we have 12 microservices are available. mostly I am supported 
+
+1.subscriptions
+2.paymentgateway
+3.third party apis
+4.order management
+5.delevery management
+6.offer details	
