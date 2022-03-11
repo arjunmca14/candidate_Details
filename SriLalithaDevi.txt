@@ -1,0 +1,23 @@
+my name is sri lalitha devi
+i have 2+ years of exp in Java backend developer 
+
+
+presently i have been associated with Mindtree as a contractor in Bangalore location...
+
+and i am handling the project name is Buy or Exchange.
+
+In this application we are using java,spring,springboot,ORM tools like hibernate,jpa
+and also database side oracle and mysql.
+
+we are following agile process with scrum methodology.
+daily we are attending the scrum calls and bug tracking we are using jira 
+code repository is git hub . 
+
+
+
+payroll compnay::: softpillar technology pvt ltd(mumbai)
+CTC :::4.5
+Expected :: 8 LPA
+Last working day ==>4th of March 2022
+DOB:::04/08/1995
+pan card number: DWGPM2041L
